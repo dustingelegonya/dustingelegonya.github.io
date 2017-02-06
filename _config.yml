@@ -70,5 +70,5 @@ theme: cactus-dark
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:srk9/dustingelegonya.github.io.git
+  repo: git@github.com:dustingelegonya/dustingelegonya.github.io.git
   branch: master
